@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepsCounter</string>
+    <string name="steps_text">Pasos: %1$d</string>
+    <string name="distance_text">Distancia: %1$.2f</string>
+</resources>
